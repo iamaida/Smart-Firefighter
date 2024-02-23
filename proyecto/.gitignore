@@ -1,0 +1,9 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Python cache
+*.pyc
+
+# IDE files (for example, VS Code)
+.vscode/
