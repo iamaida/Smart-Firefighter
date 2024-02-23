@@ -8,7 +8,7 @@ The objective of this project is to develop an AI system that assists a firefigh
 
 ### Take a look
 
-!(Image)[proyecto/bfs.py]
+!(Image)[proyecto/images/sample_video.gif]
 
 ## Getting Started
 
@@ -27,14 +27,14 @@ To run the project, follow these steps:
 
 ### Uninformed search
 
-1. 📄 !(Breath First Search)[proyecto/bfs.py]
-2. 📄 !(Deep First Search)[proyecto/dfs.py]
-3. 📄 !(Uniform Cost)[proyecto/ucs.py]
+1.  !(📄 Breath First Search)[proyecto/bfs.py]
+2.  !(📄 Deep First Search)[proyecto/dfs.py]
+3.  !(📄 Uniform Cost)[proyecto/ucs.py]
 
 ### Informed search
 
-4. 📄 !(Greddy)[proyecto/greedysearch.py]
-5. 📄 !(A\*)[proyecto/astartsearch.py]
+4.  !(📄 Greddy)[proyecto/greedysearch.py]
+5.  !(📄 A\*)[proyecto/astartsearch.py]
 
 ## Caution
 
