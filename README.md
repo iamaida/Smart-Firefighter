@@ -36,7 +36,7 @@ To run the project, follow these steps:
 4. Greddy [📄](proyecto/greedysearch.py)
 5. A\* [📄](proyecto/astartsearch.py)
 
-## Caution
+## ⚠️Caution
 
 Some improvements should be made. Those are listed below:
 
@@ -44,7 +44,7 @@ Some improvements should be made. Those are listed below:
 2. Important improvements should be made to reuse code and improve the design of the application by using design patterns.
 3. The user interface should be done using web technology.
 
-Note: I will make these improvements progressively.
+**Note**: I will make these improvements progressively.
 
 ## Contributing
 
