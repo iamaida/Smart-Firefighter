@@ -6,9 +6,9 @@ Welcome to the Firefighter AI project repository! This repository contains the c
 
 The objective of this project is to develop an AI system that assists a firefighter in extinguishing fires on a 10x10 grid. The project involves applying informed and uninformed searching algorithms to efficiently navigate the grid and extinguish fires using a water bucket.
 
-### Take a look
+### Take a look!
 
-!(Image)[proyecto/images/sample_video.gif]
+!(image)[proyecto/images/sample_video.gif]
 
 ## Getting Started
 
