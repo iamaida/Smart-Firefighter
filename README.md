@@ -6,6 +6,10 @@ Welcome to the Firefighter AI project repository! This repository contains the c
 
 The objective of this project is to develop an AI system that assists a firefighter in extinguishing fires on a 10x10 grid. The project involves applying informed and uninformed searching algorithms to efficiently navigate the grid and extinguish fires using a water bucket.
 
+### Take a look
+
+!(Image)[proyecto/bfs.py]
+
 ## Getting Started
 
 To run the project, follow these steps:
@@ -13,9 +17,9 @@ To run the project, follow these steps:
 1. Ensure you have Python installed on your machine
 2. Clone this repository to your local machine.
 3. Navigate to the project directory.
-4. Run the main Python script to execute the AI system using the console command:
+4. Run the main Python script to execute the AI system using the console command:\
 
-- `python main.py `
+`python gui.py `
 
 5. The Tkinter GUI will be launched, allowing interaction with the AI system.
 
@@ -23,14 +27,14 @@ To run the project, follow these steps:
 
 ### Uninformed search
 
-- `Breath First Search`: Contains the source code for the AI algorithms and the main Python script.
-- `Deep First Search`: Stores any necessary data files or input grids.
-- `Uniform Cost/`: Contains the code for the Tkinter GUI.
+1. 📄 !(Breath First Search)[proyecto/bfs.py]
+2. 📄 !(Deep First Search)[proyecto/dfs.py]
+3. 📄 !(Uniform Cost)[proyecto/ucs.py]
 
 ### Informed search
 
-- `Greddy/`
-- `A*/`: Stores the results and performance metrics obtained from running the AI system.
+4. 📄 !(Greddy)[proyecto/greedysearch.py]
+5. 📄 !(A\*)[proyecto/astartsearch.py]
 
 ## Caution
 
